@@ -1,1 +1,4 @@
 # Barcode-and-QR-code-Reader-
+oday we will be developing Barcode and QR code Reader Python. We all know how essential QR Codes have become these days. QR Codes make any information accessible, whether it is a QR Code for any website like a Linkedin profile, Github profile, or a QR Code that contains information. Keeping all these advantages in mind, we are going to develop a Barcode and QR Code Reader using Python and OpenCV.
+This reader will be in two types (1) Image-based Reader and (2) Real-time Reader (Webcam)
+For the development of this project of Barcode and QR Code Reader, we will be using a famous Python library named OpenCV and along with it NumPy and Pyzbar. These libraries will eventually help us to build the two types of readers. So let a start with the actual coding of this project.
